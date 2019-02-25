@@ -13,7 +13,7 @@ name                     : &name "Zhijing Wu"
 description              : &description "PhD student at Tsinghua University"
 url                      : https://EudoraW.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EudoraW/EudoraW.github.io"
+repository               : "EudoraW.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhijing Wu"
-  avatar           : "profile.png"
+  avatar           : "zhijingwu.jpg"
   bio              : "PhD student at Tsinghua University"
   location         : "FIT Building, Tsinghua University, Beijing, China"
   employer         :
