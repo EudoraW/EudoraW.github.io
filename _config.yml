@@ -13,7 +13,7 @@ name                     : &name "Zhijing Wu"
 description              : &description "PhD student at Tsinghua University"
 url                      : https://EudoraW.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EudoraW/EudoraW.github.io"
+repository               : "EudoraW.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhijing Wu"
+  name             : "吴之璟"
   avatar           : "profile.png"
   bio              : "PhD student at Tsinghua University"
-  location         : "FIT Building, Tsinghua University, Beijing, China"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=rDTfaqAAAAAJ"
   email            : "wuzhijing.joyce@gmail.com"
