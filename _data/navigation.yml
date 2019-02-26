@@ -2,11 +2,10 @@
 main:
 
   - title: "Education"
-    url: /#Education/
+    url: /#Education
 
   - title: "Publications"
-    url: /#publications/
+    url: /#publications
 
   - title: "Experiences"
-    url: /#Experiences/
-
+    url: /#Experiences
