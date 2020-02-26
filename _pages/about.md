@@ -18,6 +18,7 @@ Education
 
 Publications
 ======
+* ***Zhijing Wu***, Jiaxin Mao, Yiqun Liu, Jingtao Zhan, Yukun Zheng, Min Zhang and Shaoping Ma. Leveraging Passage-level Cumulative Gain for Document Ranking. The Web Conference 2020. Long paper. **(WWW 2020)**.
 * ***Zhijing Wu***, Ke Zhou, Yiqun Liu, Min Zhang, Shaoping Ma. Does Diversity Affect User Satisfaction in Image Search. ACM Transactions on Information Systems. **(TOIS)**.
 * ***Zhijing Wu***, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. Investigating Passage-level Relevance and Its Role in Document-level Relevance Judgment. The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. Long paper. **(SIGIR 2019)**.
 * ***Zhijing Wu***, Yiqun Liu, Qianfan Zhang, Kailu Wu, Min Zhang and Shaoping Ma. The influence of image search intents on user behavior and satisfaction. The 12th ACM International Conference on Web Search and Data Mining. Long paper. **(WSDM 2019)**.
@@ -33,5 +34,6 @@ Publications
 
 Experiences
 ======
+* **Aug. 2019 - Feb. 2020.** Visiting student, IR Group, Royal Melbourne Institute of Technology University, Australia.
 * **Jun. 2018 - Sep. 2018.** Visiting student, NExT++ Research Centre, National University of Singapore, Singapore.
 * **Jun. 2016 - Aug. 2016.** Internship, Technology and Engineering Group, Tencent Shenzhen, China.
