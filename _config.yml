@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhijing Wu"
 title_separator          : "-"
 name                     : &name "Zhijing Wu"
-description              : &description "PhD student at Tsinghua University"
+description              : &description "Ph.D. student at Tsinghua University"
 url                      : https://EudoraW.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EudoraW.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhijing Wu \n (吴之璟)"
   avatar           : "profile.png"
-  bio              : "PhD student at Tsinghua University"
+  bio              : "Ph.D. student at Tsinghua University"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=rDTfaqAAAAAJ"
