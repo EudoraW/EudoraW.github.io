@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/) and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web image search and fine-grained document ranking.
+I am now a fifth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/) and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web image search and fine-grained document ranking.
 
 Education
 ======
