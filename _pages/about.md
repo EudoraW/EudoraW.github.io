@@ -16,8 +16,16 @@ Education
 * **Aug. 2013 - Jul. 2017.** B.E., Department of Computer Science and Technology, Tsinghua University, China. 
 * **Aug. 2014 - Jul. 2017.** B.A. (Second Bachelor Degree), School of Journalism and Communication, Tsinghua University, China.
 
+Experiences
+======
+* **Jul. 2021 - Sept. 2021.** Internship, ByteDance, Beijing, China.
+* **Aug. 2019 - Feb. 2020.** Visiting student, IR Group, Royal Melbourne Institute of Technology University, Australia.
+* **Jun. 2018 - Sep. 2018.** Visiting student, NExT++ Research Centre, National University of Singapore, Singapore.
+* **Jun. 2016 - Aug. 2016.** Internship, Technology and Engineering Group, Tencent Shenzhen, China.
+
 Publications
 ======
+* Xiangsheng Li, Jiaxin Mao, Weizhi Ma, ***Zhijing Wu***, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang and Xiuqiang He. A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation. The 15th ACM International Conference on Web Search and Data Mining. Full paper. **(WSDM 2022)**
 * ***Zhijing Wu***, Mark Sanderson, B. Barla Cambazoglu, Bruce Croft, Falk Scholer. Providing Direct Answers in Search Results: A Study of User Behavior. The 29th ACM International Conference on Information and Knowledge Management. Full paper. **(CIKM 2020)**
 * ***Zhijing Wu***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. Investigating Reading Behavior in Fine-grained Relevance Judgment. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Short Paper. **(SIGIR 2020)**
 * ***Zhijing Wu***, Jiaxin Mao, Yiqun Liu, Jingtao Zhan, Yukun Zheng, Min Zhang and Shaoping Ma. Leveraging Passage-level Cumulative Gain for Document Ranking. The Web Conference 2020. Full paper. **(WWW 2020)**.
@@ -34,8 +42,9 @@ Publications
 * Xiaohui Xie, Yiqun Liu, Xiaochuan Wang, Meng Wang, ***Zhijing Wu***, Yingying Wu, Min Zhang and Shaoping Ma. Investigating Examination Behavior of Image Search Users. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval. Full paper **(SIGIR2017)**.
 <!--# [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/sigir2017Xie.pdf)-->
 
-Experiences
+Honors and Awards
 ======
-* **Aug. 2019 - Feb. 2020.** Visiting student, IR Group, Royal Melbourne Institute of Technology University, Australia.
-* **Jun. 2018 - Sep. 2018.** Visiting student, NExT++ Research Centre, National University of Singapore, Singapore.
-* **Jun. 2016 - Aug. 2016.** Internship, Technology and Engineering Group, Tencent Shenzhen, China.
+* 2020, Microsoft Research Asia Fellowship Nomination Award 
+* 2020, Global Top40 of Baidu Scholarship
+* 2019, China National Scholarship
+* 2017, Outstanding Graduate of Department of Computer Science and Technology, Tsinghua University
