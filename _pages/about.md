@@ -20,7 +20,7 @@ Experiences
 ======
 * **Jul. 2021 - Sept. 2021.** Internship, ByteDance, Beijing, China.
 * **Aug. 2019 - Feb. 2020.** Visiting student, IR Group, Royal Melbourne Institute of Technology University, Australia.
-* **Jun. 2018 - Sep. 2018.** Visiting student, NExT++ Research Centre, National University of Singapore, Singapore.
+* **Jun. 2018 - Sept. 2018.** Visiting student, NExT++ Research Centre, National University of Singapore, Singapore.
 * **Jun. 2016 - Aug. 2016.** Internship, Technology and Engineering Group, Tencent Shenzhen, China.
 
 Publications
