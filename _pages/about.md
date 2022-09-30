@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fifth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/) and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web image search and fine-grained document ranking.
+I am now an assistant professor at [School of Computer Science and Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/). Before that, I received my Ph.D. degree in Computer Science and Technology from Tsinghua University, under the supervision of Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/) and Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
+
+My major research interests are Information Retrieval and Natural Language Processing. I am looking for self-motivated students to work with me. Feel free to email me if you have interests.
 
 Education
 ======
-* **Aug. 2017 - now.** Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.
+* **Aug. 2017 - Jul. 2022.** Ph.D., Department of Computer Science and Technology, Tsinghua University, China.
 * **Aug. 2013 - Jul. 2017.** B.E., Department of Computer Science and Technology, Tsinghua University, China. 
 * **Aug. 2014 - Jul. 2017.** B.A. (Second Bachelor Degree), School of Journalism and Communication, Tsinghua University, China.
 
@@ -25,6 +27,8 @@ Experiences
 
 Publications
 ======
+* Changzhi Zhou, Dandan Song, Jing Xu, ***Zhijing Wu*** and Yujin Gao. A Multi-turn Machine Reading Comprehension Framework with Rethink Mechanism for Emotion-Cause Pair Extraction. The 29th International Conference on Computational Linguistics. Full paper. **(COLING 2022)** 
+* ***Zhijing Wu***, Yiqun Liu, Jiaxin Mao, Min Zhang, Shaoping Ma. Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document Ranking. Journal of Computer Science and Technology. **(JCST)**
 * Xiangsheng Li, Jiaxin Mao, Weizhi Ma, ***Zhijing Wu***, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang and Xiuqiang He. A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation. The 15th ACM International Conference on Web Search and Data Mining. Full paper. **(WSDM 2022)**
 * ***Zhijing Wu***, Mark Sanderson, B. Barla Cambazoglu, Bruce Croft, Falk Scholer. Providing Direct Answers in Search Results: A Study of User Behavior. The 29th ACM International Conference on Information and Knowledge Management. Full paper. **(CIKM 2020)**
 * ***Zhijing Wu***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. Investigating Reading Behavior in Fine-grained Relevance Judgment. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Short Paper. **(SIGIR 2020)**
@@ -44,6 +48,7 @@ Publications
 
 Honors and Awards
 ======
+* 2022, Outstanding Graduate of Department of Computer Science and Technology, Tsinghua University
 * 2020, Microsoft Research Asia Fellowship Nomination Award 
 * 2020, Global Top40 of Baidu Scholarship
 * 2019, China National Scholarship
