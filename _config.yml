@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhijing Wu"
 title_separator          : "-"
 name                     : &name "Zhijing Wu"
-description              : &description "assistant professor at Beijing Institute of Technology"
+description              : &description "Assistant Professor at Beijing Institute of Technology"
 url                      : https://EudoraW.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EudoraW.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhijing Wu \n (吴之璟)"
   avatar           : "profile.png"
-  bio              : "assistant professor at Beijing Institute of Technology"
+  bio              : "Assistant Professor at Beijing Institute of Technology"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=rDTfaqAAAAAJ"
