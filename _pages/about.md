@@ -27,6 +27,7 @@ Experiences
 
 Publications
 ======
+* ***Zhijing Wu***, Jiaxin Mao, Kedi Xu, Dandan Song, Heyan Huang. A Passage-Level Reading Behavior Model for Mobile Search. The Web Conference 2023. Full paper. **(WWW 2023)**.
 * Changzhi Zhou, Dandan Song, Jing Xu, ***Zhijing Wu*** and Yujin Gao. A Multi-turn Machine Reading Comprehension Framework with Rethink Mechanism for Emotion-Cause Pair Extraction. The 29th International Conference on Computational Linguistics. Full paper. **(COLING 2022)** 
 * ***Zhijing Wu***, Yiqun Liu, Jiaxin Mao, Min Zhang, Shaoping Ma. Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document Ranking. Journal of Computer Science and Technology. **(JCST)**
 * Xiangsheng Li, Jiaxin Mao, Weizhi Ma, ***Zhijing Wu***, Yiqun Liu, Min Zhang, Shaoping Ma, Zhaowei Wang and Xiuqiang He. A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation. The 15th ACM International Conference on Web Search and Data Mining. Full paper. **(WSDM 2022)**
